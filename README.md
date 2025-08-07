@@ -4,6 +4,8 @@ A comprehensive pipeline that extracts geospatial features from remote sensing d
 
 ---
 
+## 📁 Project Structure
+
 ```
 GLOF-Risk-System/
 │
