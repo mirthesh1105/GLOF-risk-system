@@ -4,21 +4,19 @@ A comprehensive pipeline that extracts geospatial features from remote sensing d
 
 ---
 
-## 📁 Project Structure
-
 GLOF-Risk-System/
 │
 ├── data/
-│ ├── glof_features_enhanced 2023-24.csv
-│ ├── glof_features_enhanced 2024 - 25.csv
-| ├── glof_risk_predictions_2024.csv
+│   ├── glof_features_enhanced_2023-24.csv
+│   ├── glof_features_enhanced_2024-25.csv
+│   ├── glof_risk_predictions_2024.csv
 │
-├── fetch_landsat_data.py # Extracts Landsat & DEM features
-├── glof_feature_extraction.py # NDWI, NDVI, NDSI, slope, aspect, etc.
-├── glof_risk_model.py # Clustering + Random Forest prediction
-├── glof_risk_visualization.py # Elevation contour + Risk map plot
-├── README.md # You are here!
-├── requirements.txt
+├── fetch_landsat_data.py           # Extracts Landsat & DEM features
+├── glof_feature_extraction.py      # NDWI, NDVI, NDSI, slope, aspect, etc.
+├── glof_risk_model.py              # Clustering + Random Forest prediction
+├── glof_risk_visualization.py      # Elevation contour + Risk map plot
+├── requirements.txt                # Project dependencies
+├── README.md                       # Project overview and instructions
 
 ---
 
