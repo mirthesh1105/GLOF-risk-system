@@ -4,6 +4,7 @@ A comprehensive pipeline that extracts geospatial features from remote sensing d
 
 ---
 
+```
 GLOF-Risk-System/
 │
 ├── data/
@@ -17,6 +18,7 @@ GLOF-Risk-System/
 ├── glof_risk_visualization.py      # Elevation contour + Risk map plot
 ├── requirements.txt                # Project dependencies
 ├── README.md                       # Project overview and instructions
+```
 
 ---
 
