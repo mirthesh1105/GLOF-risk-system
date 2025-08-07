@@ -1,3 +1,13 @@
+"""
+Fetch Landsat and DEM Data Script
+---------------------------------
+- Initializes Google Earth Engine
+- Downloads Landsat 8 satellite images for specified region and date range
+- Exports image to Google Drive for further processing
+
+Author: Mirthesh M
+"""
+
 import ee
 
 # Initialize Google Earth Engine
