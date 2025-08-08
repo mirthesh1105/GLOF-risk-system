@@ -35,6 +35,16 @@ GLOF-Risk-System/
 
 ---
 
+## 📂 Data Sources
+
+This project focuses on satellite and topographic data specific to the **South Lhonak Lake (SLL)** region.
+
+- **Study Area**: South Lhonak Lake, Sikkim, India (~27.95°N, 88.14°E)
+- **Satellite Imagery**: Landsat-8 Collection 1
+- **DEM Data**: SRTM 30m resolution (USGS)
+
+---
+
 ## 🔍 Key Features
 
 - **Feature Extraction**: Computes NDWI, NDVI, NDSI, elevation, slope, aspect, and distance to glaciers from satellite and DEM data.
